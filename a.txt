@@ -1,4 +1,4 @@
 hello b.txt c.txt
 
 
-int numOfStudents = 110;
+int numOfStudents = 80;
